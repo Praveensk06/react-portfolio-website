@@ -7,7 +7,7 @@ import IMG3 from "../../assets/blog3.jpg";
 const Blog = () => {
   return (
     <section className="blog container section grid-blog" id="blog">
-      <h2 className="section-title">Latest Posts</h2>
+      <h2 className="section-title">Latest Linkedin Posts</h2>
 
       <div className="blog-container grid">
         <div className="blog-card">

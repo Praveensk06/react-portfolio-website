@@ -4,7 +4,7 @@ import { BsLinkedin } from "react-icons/bs";
 
 import { FaGithub } from "react-icons/fa";
 
-import { FiTwitter } from "react-icons/fi";
+import { SiHashnode } from "react-icons/si";
 
 const HeaderSocials = () => {
   return (
@@ -15,11 +15,8 @@ const HeaderSocials = () => {
       <a href="https://github.com/Praveensk06" target="_blank">
         <FaGithub />
       </a>
-      <a
-        href="https://twitter.com/Praveen46268923?t=Vt38C4Nr42XNP6HUTp7u1w&s=09"
-        target="_blank"
-      >
-        <FiTwitter />
+      <a href="https://praveensk.hashnode.dev/" target="_blank">
+        <SiHashnode />
       </a>
     </div>
   );
