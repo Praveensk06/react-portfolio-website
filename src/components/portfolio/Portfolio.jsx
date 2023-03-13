@@ -21,7 +21,7 @@ const data = [
     image: IMG2,
     title: "Netflix-Clone",
     github: "https://github.com/Praveensk06/netflix-clone.git",
-    demo: "https://elegant-parfait-27be20.netlify.app/",
+    demo: "https://praveen-netflix-clone.netlify.app",
   },
   {
     id: 3,
