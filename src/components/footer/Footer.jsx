@@ -1,7 +1,8 @@
 import React from "react";
 import "./footer.css";
 
-import { BsInstagram, BsFacebook, BsTwitter } from "react-icons/bs";
+import { BsInstagram, BsFacebook } from "react-icons/bs";
+import { SiHashnode } from "react-icons/si";
 
 const Footer = () => {
   return (
@@ -38,8 +39,8 @@ const Footer = () => {
         <a href="https://www.instagram.com/invites/contact/?i=rxhx5rr8te60&utm_content=3ogcg90">
           <BsInstagram />
         </a>
-        <a href="https://twitter.com/Praveen46268923?t=Vt38C4Nr42XNP6HUTp7u1w&s=09">
-          <BsTwitter />
+        <a href="https://praveensk.hashnode.dev/">
+          <SiHashnode />
         </a>
       </div>
       <div className="footer__copyright">
