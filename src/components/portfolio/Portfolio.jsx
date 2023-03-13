@@ -1,10 +1,10 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/portfolio.avif";
-import IMG2 from "../../assets/portfolio2.avif";
+import IMG1 from "../../assets/codepen-img1.png";
+import IMG2 from "../../assets/netflix-img.png";
 import IMG3 from "../../assets/portfolio3.avif";
-import IMG4 from "../../assets/portfolio4.avif";
-import IMG5 from "../../assets/portfolio5.avif";
+import IMG4 from "../../assets/password-generator-img.png";
+import IMG5 from "../../assets/product-slider-img.png";
 import IMG6 from "../../assets/portfolio6.avif";
 
 // data
@@ -12,16 +12,16 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "filter app",
-    github: "https://github.com",
-    demo: "https://github.com",
+    title: "CodePen-Clone",
+    github: "https://github.com/Praveensk06/codepen-clone.git",
+    demo: "https://codepen-clone-86816.web.app",
   },
   {
     id: 2,
     image: IMG2,
-    title: "filter app",
-    github: "https://github.com",
-    demo: "https://github.com",
+    title: "Netflix-Clone",
+    github: "https://github.com/Praveensk06/netflix-clone.git",
+    demo: "https://elegant-parfait-27be20.netlify.app/",
   },
   {
     id: 3,
@@ -33,16 +33,16 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "filter app",
-    github: "https://github.com",
-    demo: "https://github.com",
+    title: "Password Generator",
+    github: "https://github.com/Praveensk06/Password-Generator.git",
+    demo: "https://praveensk06.github.io/Password-Generator/",
   },
   {
     id: 5,
     image: IMG5,
-    title: "filter app",
-    github: "https://github.com",
-    demo: "https://github.com",
+    title: "Product-Slider",
+    github: "https://github.com/Praveensk06/Product-Slider.git",
+    demo: "https://praveensk06.github.io/Product-Slider/",
   },
   {
     id: 6,
