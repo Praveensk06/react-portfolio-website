@@ -2,7 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/codepen-img1.png";
 import IMG2 from "../../assets/netflix-img.png";
-import IMG3 from "../../assets/portfolio3.avif";
+import IMG3 from "../../assets/food-app-img.png";
 import IMG4 from "../../assets/password-generator-img.png";
 import IMG5 from "../../assets/product-slider-img.png";
 import IMG6 from "../../assets/portfolio6.avif";
@@ -26,9 +26,9 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "filter app",
-    github: "https://github.com",
-    demo: "https://github.com",
+    title: "Food-Delivery-App",
+    github: "https://github.com/Praveensk06/food-delivery-app.git",
+    demo: "https://food-delivery-app-react-sk.netlify.app/",
   },
   {
     id: 4,
