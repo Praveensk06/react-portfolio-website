@@ -5,7 +5,7 @@ import IMG2 from "../../assets/netflix-img.png";
 import IMG3 from "../../assets/food-app-img.png";
 import IMG4 from "../../assets/password-generator-img.png";
 import IMG5 from "../../assets/product-slider-img.png";
-import IMG6 from "../../assets/portfolio6.avif";
+import IMG6 from "../../assets/css-generator-img.png";
 
 // data
 const data = [
@@ -21,7 +21,7 @@ const data = [
     image: IMG2,
     title: "Netflix-Clone",
     github: "https://github.com/Praveensk06/netflix-clone.git",
-    demo: "https://praveen-netflix-clone.netlify.app",
+    demo: "https://praveen-netflixclone.netlify.app/",
   },
   {
     id: 3,
@@ -47,9 +47,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "filter app",
-    github: "https://github.com",
-    demo: "https://github.com",
+    title: "Css Generator",
+    github: "https://github.com/Praveensk06/CSS-Generator.git",
+    demo: "https://praveensk06.github.io/CSS-Generator/",
   },
 ];
 
