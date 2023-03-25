@@ -21,14 +21,14 @@ const data = [
     image: IMG2,
     title: "Netflix-Clone",
     github: "https://github.com/Praveensk06/netflix-clone.git",
-    demo: "https://praveen-netflixclone.netlify.app/",
+    demo: "https://relaxed-blini-186d6a.netlify.app/",
   },
   {
     id: 3,
     image: IMG3,
     title: "Food-Delivery-App",
     github: "https://github.com/Praveensk06/food-delivery-app.git",
-    demo: "https://food-delivery-app-react-sk.netlify.app/",
+    demo: "https://fastidious-smakager-01bd34.netlify.app/",
   },
   {
     id: 4,
