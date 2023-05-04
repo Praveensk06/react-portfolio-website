@@ -10,6 +10,8 @@ import Footer from "./components/footer/Footer";
 
 import Blog from "./components/blog/Blog";
 
+import Certificate from "./components/certificate/Certificate";
+
 const App = () => {
   return (
     <>
@@ -17,6 +19,7 @@ const App = () => {
       <Nav />
       <About />
       <Experience />
+      <Certificate />
       <Portfolio />
       <Testimonial />
       <Blog />

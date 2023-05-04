@@ -1,0 +1,22 @@
+.certificate {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.certificate h1 {
+  color: var(--color-primary);
+  margin-top: 2rem;
+  font-size: 24px;
+}
+
+.certificate-img {
+  margin-top: 2rem;
+  width: 450px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.certificate-img:hover {
+  transform: scale(1.1);
+}
