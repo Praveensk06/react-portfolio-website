@@ -13,10 +13,16 @@
 
 .certificate-img {
   margin-top: 2rem;
-  width: 450px;
+  width: 350px;
   transition: transform 0.2s ease-in-out;
 }
 
 .certificate-img:hover {
   transform: scale(1.1);
+}
+
+@media screen and (max-width: 600px) {
+  .certificate-img {
+    width: 250px;
+  }
 }
