@@ -20,8 +20,8 @@ const data = [
     id: 2,
     image: IMG2,
     title: "Netflix-Clone",
-    github: "http://relaxed-blini-186d6a-movie-app.netlify.app/",
-    demo: "https://relaxed-blini-186d6a.netlify.app/",
+    github: "https://github.com/Praveensk06/netflix-clone.git",
+    demo: "http://relaxed-blini-186d6a-movie-app.netlify.app/",
   },
   {
     id: 3,
