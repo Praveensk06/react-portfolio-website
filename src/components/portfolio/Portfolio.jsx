@@ -6,9 +6,41 @@ import IMG3 from "../../assets/food-app-img.png";
 import IMG4 from "../../assets/password-generator-img.png";
 import IMG5 from "../../assets/product-slider-img.png";
 import IMG6 from "../../assets/css-generator-img.png";
+import IMG7 from "../../assets/trippers .png";
+import IMG8 from "../../assets/vap-img.png";
+import IMG9 from "../../assets/care-img.png";
+import IMG10 from "../../assets/brandz-img.png";
 
 // data
 const data = [
+  {
+    id: 7,
+    image: IMG7,
+    title: "Booking Website",
+    github: "https://github.com/Praveensk06/",
+    demo: "https://trippersspot.com/",
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: "Restobar Website",
+    github: "https://github.com/Praveensk06/",
+    demo: "https://vap-club.com/",
+  },
+  {
+    id: 9,
+    image: IMG9,
+    title: "Oil Website",
+    github: "https://github.com/Praveensk06/",
+    demo: "https://jayaswinfoods.com/",
+  },
+  {
+    id: 10,
+    image: IMG10,
+    title: "Website",
+    github: "https://github.com/Praveensk06/",
+    demo: "https://brandzspot.com/",
+  },
   {
     id: 1,
     image: IMG1,
